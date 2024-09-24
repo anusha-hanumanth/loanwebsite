@@ -1,0 +1,7 @@
+.clip-corner {
+    clip-path: polygon(0 0, 100% 0, 100% 80%, 80% 100%, 0 100%);
+  }
+  .mb-6 {
+    margin-bottom: 6rem; /* or adjust as needed */
+  }
+  
